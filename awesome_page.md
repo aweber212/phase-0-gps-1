@@ -7,4 +7,4 @@
 ```
 so, it can be any text, eh?
 ```
->>>>>>> 550947815a90f9645c8709e9efc658edd22f338a
+A different, conlficting line
